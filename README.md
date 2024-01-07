@@ -19,7 +19,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src=![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)"/>
   
   </td>
 </tr>
