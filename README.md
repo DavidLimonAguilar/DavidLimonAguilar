@@ -1,6 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy David Limón Aguilar</h1></summary>
@@ -14,22 +12,5 @@
 
 
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-</p>        
-<!--- stats (end) -->
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=DavidLimonAguilar)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
