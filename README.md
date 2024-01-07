@@ -4,7 +4,7 @@
     <summary><h1 style="display: inline-block">Hola 👋, soy David Limón Aguilar.</h1></summary>
   </ul>
 </div>
-<img src="./sin nombre.png"></img>
+<img src="https://github.com/DavidLimonAguilar/DavidLimonAguilar/blob/main/Sin%20nombre.png"></img>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
