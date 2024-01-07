@@ -1,3 +1,6 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilarlayout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hola 👋, soy David Limón Aguilar</h1></summary>
