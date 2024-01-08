@@ -52,7 +52,9 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aDavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
 <div align="center">
