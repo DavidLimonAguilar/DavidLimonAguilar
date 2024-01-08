@@ -12,7 +12,7 @@
 </div>
 
 <!--Intro start-->
-<h2>Mis Stads</h2>
+<h2>Mis Stads :mag:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&langs_count=8"> </img>
 </div>
