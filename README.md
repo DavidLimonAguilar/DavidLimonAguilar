@@ -56,6 +56,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&langs_count=8" alt="Mis estadísticas de lenguajes de programación">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact)
 </div>
 
