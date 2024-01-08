@@ -54,11 +54,12 @@
 
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact" alt="Top Langs Compact">
+<div>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8&theme=dark)
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&layout=compact)
 </div>
-
 
 
 
