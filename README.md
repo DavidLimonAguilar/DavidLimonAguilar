@@ -4,7 +4,7 @@
   </ul>
 </div>
 <img src="https://github.com/DavidLimonAguilar/DavidLimonAguilar/blob/main/bannerGitHub.png"></img>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aDavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <h2>Sobre mí</h2>
 <div>
   <ul> 
