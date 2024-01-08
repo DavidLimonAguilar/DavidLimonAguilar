@@ -14,18 +14,18 @@
     <li>:mortar_board: Mi enfoque central es el desarrollo Front End y como secundario el Back End.</li>
   </ul> 
 </div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
 </div>
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <h2>Stack</h2>
 <div>
 <h3>Front End </h3>
