@@ -54,7 +54,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aDavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
 <div align="center">
