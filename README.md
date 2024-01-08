@@ -19,7 +19,6 @@
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact)
 </div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
