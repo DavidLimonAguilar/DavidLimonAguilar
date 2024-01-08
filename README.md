@@ -5,16 +5,6 @@
 </div>
 <img src="https://github.com/DavidLimonAguilar/DavidLimonAguilar/blob/main/bannerGitHub.png"></img>
 
-<!--Intro start-->
-<h2>Mis Stats :mag:</h2>
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact)
-
-</div>
-
 <h2>Sobre mí</h2>
 <div>
   <ul> 
@@ -24,7 +14,12 @@
     <li>:mortar_board: Mi enfoque central es el desarrollo Front End y como secundario el Back End.</li>
   </ul> 
 </div>
-
+<!--Intro start-->
+<h2>Mis Stats :mag:</h2>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact)
+</div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
