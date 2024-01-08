@@ -58,6 +58,10 @@
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&hide=javascript,html)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
   
 </div>
 
