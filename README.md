@@ -54,5 +54,5 @@
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&langs_count=8"> </img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=dark&langs_count=8"> </img>
 </div>
