@@ -55,17 +55,10 @@
 
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&exclude_repo=github-readme-stats,anuraghazra.github.io)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact" alt="Top Langs Compact">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&hide=javascript,html)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&size_weight=0.5&count_weight=0.5)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 
