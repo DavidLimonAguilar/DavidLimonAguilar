@@ -54,11 +54,9 @@
 
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
-<div>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8&theme=dark)
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8&theme=dark" alt="Top Langs" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&layout=compact" alt="Top Langs Compact">
 </div>
 
 
