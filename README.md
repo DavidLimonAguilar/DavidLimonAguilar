@@ -1,17 +1,25 @@
-
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy David Limón Aguilar.</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola! 👋, soy David Limón Aguilar.</h1></summary>
   </ul>
 </div>
 <img src="https://github.com/DavidLimonAguilar/DavidLimonAguilar/blob/main/bannerGitHub.png"></img>
+
+<h2>Sobre mí</h2>
+<div>
+  <ul> 
+    <li>:computer: Ingeniero en Sistemas Computacionales.</li>
+    <li>:gem: Mi experiencia es en Front End, Back End y Móvil.</li>
+    <li>:chart_with_downwards_trend: He liderado equipos de trabajo, así como también he contribuido en equipos con metodologías ágiles durante mi tiempo en la universidad.</li>
+    <li>:mortar_board: Mi enfoque central es el desarrollo Front End y como secundario el Back End.</li>
+  </ul> 
+</div>
+
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<h2>Sobre mi</h2>
 
 <h2>Stack</h2>
 <div>
@@ -44,9 +52,7 @@
 </div>
 
 <!--Intro start-->
-<h2>Mis Stads :mag:</h2>
+<h2>Mis Stats :mag:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&langs_count=8"> </img>
 </div>
-
-
