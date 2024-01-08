@@ -51,14 +51,14 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&theme=dark&langs_count=8" alt="Mis estadísticas de lenguajes de programación">
   
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&hide=javascript,html)
 </div>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact)
