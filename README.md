@@ -11,6 +11,11 @@
        alt="snake" /></a>
 </div>
 
+<h2>Sobre mi</h2>
+
+<h2>Stack</h2>
+
+
 <!--Intro start-->
 <h2>Mis Stads :mag:</h2>
 <div align="center">
