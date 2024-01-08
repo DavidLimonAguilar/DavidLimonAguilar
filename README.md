@@ -64,6 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=compact" alt="Top Langs Compact">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&hide=javascript,html)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&size_weight=0.5&count_weight=0.5)
 </div>
 
 
