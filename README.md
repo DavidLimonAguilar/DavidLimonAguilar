@@ -24,7 +24,7 @@
 <h2>Mis Stats :mag:</h2>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=donut&them=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <h2>Stack</h2>
 <div>
