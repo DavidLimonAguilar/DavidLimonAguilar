@@ -22,6 +22,8 @@
 </div>
 <!--Intro start-->
 <h2>Mis Stats :mag:</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 </div>
 <h2>Stack</h2>
