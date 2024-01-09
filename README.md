@@ -24,7 +24,7 @@
 <h2>Mis Stats :mag:</h2>
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&langs_count=8)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLimonAguilar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <h2>Stack</h2>
 <div>
@@ -55,10 +55,6 @@
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20token">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidLimonAguilar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DavidLimonAguilar&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
 
  
 
